@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "porerad"
+version = "1.0.0"
+description = "Pore-scale radiation and radiation-conduction coupling in digital microstructures of porous insulation"
+readme = "README.md"
+license = {text = "GPL-3.0-only"}
+requires-python = ">=3.10,<3.13"
+dependencies = ["numpy>=2.0", "scipy>=1.13", "pandas>=2.2", "numba>=0.60", "taichi>=1.7"]
+
+[tool.setuptools]
+packages = ["porerad"]

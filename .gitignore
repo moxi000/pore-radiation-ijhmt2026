@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+build/
+output/
+data/microstructures/*_N160.npz
+data/microstructures/*_N192.npz
+results/descriptors/

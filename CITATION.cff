@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "pore-radiation-ijhmt2026: code and data for pore-scale radiative heat transfer in porous and fibrous insulation"
+authors:
+  - family-names: Yan
+    given-names: Wujin
+    orcid: "https://orcid.org/0009-0000-4758-4208"
+  - family-names: Zhu
+    given-names: Keyong
+  - family-names: Huang
+    given-names: Yong
+    orcid: "https://orcid.org/0000-0002-1158-5601"
+license:
+  - GPL-3.0-only
+  - CC-BY-4.0
+repository-code: "https://github.com/moxi000/pore-radiation-ijhmt2026"
+preferred-citation:
+  type: article
+  title: "Pore-scale radiative heat transfer and accuracy of reduced radiation models in porous and fibrous insulation materials"
+  authors:
+    - family-names: Yan
+      given-names: Wujin
+    - family-names: Zhu
+      given-names: Keyong
+    - family-names: Huang
+      given-names: Yong
+  journal: "International Journal of Heat and Mass Transfer"
+  year: 2026
+  doi: "10.1016/j.ijheatmasstransfer.2026.129687"
