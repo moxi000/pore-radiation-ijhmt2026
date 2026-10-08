@@ -110,6 +110,3 @@ The integer first-hit counts of every ray set listed in `data/` can be regenerat
 
 The code is licensed under the GNU General Public License v3.0 (`LICENSE`) and the data in `data/` and `results/` under the Creative Commons Attribution 4.0 International license (`LICENSE-DATA`). Please cite the article when using either.
 
-## Contact
-
-Yong Huang, School of Aeronautic Science and Engineering, Beihang University, huangy@buaa.edu.cn
